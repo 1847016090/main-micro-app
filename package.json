@@ -1,0 +1,28 @@
+{
+  "name": "main-micro-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^5.3.3"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1847016090/main-micro-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1847016090/main-micro-app/issues"
+  },
+  "homepage": "https://github.com/1847016090/main-micro-app#readme",
+  "description": ""
+}
