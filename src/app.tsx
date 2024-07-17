@@ -1,7 +1,11 @@
-import React from "react";
+import Pages from "@/pages";
 
-const App = () => {
-  return <div>我是主应用</div>;
-};
+function App() {
+  return (
+    <div className="App">
+      <Pages />
+    </div>
+  );
+}
 
 export default App;
